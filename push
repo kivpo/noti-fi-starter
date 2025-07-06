@@ -1,0 +1,6 @@
+cd path/to/your/noti-fi-starter
+git init
+git remote add origin https://github.com/kivpo/noti-fi-starter.git
+git add .
+git commit -m "Initial Noti-Fi starter commit"
+git push -u origin main
